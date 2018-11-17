@@ -1,0 +1,13 @@
+Questions from ML Class:
+
+1.) How to minimize a generic polynomial equation? Taking the derivative and setting it to zero works for every kind of equation?
+
+2.) Derivation of normal method of linear regression. For ex: (X'X)-1*X'*Y
+
+3.) How/Why does vectorized implementation runs faster in computers? How do computers handle matrices?
+
+4.) What is the principle of maximum likelihood? Essentially how does the equation for logistic regression comes into being?
+
+5.) Think more deeply about the intuition of the regularization in linear and logistic regression. How do they help the algorithm?
+
+6.) Think about how NNs are able to compute non-linear hypthoesis by building more complex features in hidden layers? Build a better intuition as to how do they do that?
